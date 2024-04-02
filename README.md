@@ -10,6 +10,5 @@
 ### 🛠 Используемые инструменты
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/ru-ru/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/> </a>
 </div>
