@@ -22,7 +22,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/VinokurovSS/VinokurovSS/blob/main/icons/mysql.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/VinokurovSS/VinokurovSS/blob/main/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/> </a>
 </div>
 
-### 🛠 Тестирование веб-приложений:
+## 🛠 Тестирование веб-приложений:
 <div>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/VinokurovSS/VinokurovSS/blob/main/icons/postman.svg" alt="Postman" width="40" height="40"/> </a> <a href="https://www.soapui.org/" target="_blank"> <img src="https://github.com/VinokurovSS/VinokurovSS/blob/main/icons/soapui.svg" alt="SoapUI" width="40" height="40"/> </a> <a href="https://developer.chrome.com/docs/devtools" target="_blank"> <img src="https://github.com/VinokurovSS/VinokurovSS/blob/main/icons/devtools.svg" alt="DevTools" width="40" height="40"/> </a> 
 </div>
