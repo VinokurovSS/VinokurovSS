@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.vinokurov@gmail.com)
+📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@vinokurovss-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vinokurovss/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.vinokurov@gmail.com)
 
 
 ### 🛠 Используемые инструменты
