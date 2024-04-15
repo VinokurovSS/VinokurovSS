@@ -41,6 +41,10 @@
 
 ### Примеры моей работы:
 
+
+[Работа с Aliexpress.ru](https://github.com/VinokurovSS/Aliexpress)  
+[Работа с мобильным приложением "TO-DO-MVP"](https://github.com/VinokurovSS/TO-DO-MVP) 
+
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=test1)
